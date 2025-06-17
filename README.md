@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Ahmed Mahmoud 👋</h1>
 
 <p align="center">
-  💻 Junior .NET Developer | 🎓 Computer Science Student | 📍 Based in Assiut, Egypt
+  💻  .NET Developer | 🎓 Computer Science Student | 📍 Based in Cairo, Egypt
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Currently learning and building with **C#, .NET, SQL Server**
+- 💼 Currently learning and building with **C#, .NET, SQL Server,html,css,bootstrap**
 - 🎓 Studying Computer Science at **El Shorouk Academy**
 - 🧠 Passionate about solving problems and building desktop & web applications
 - 🔒 Interested in authentication, clean architecture, and software design principles
@@ -31,9 +31,9 @@ Here are a few things I've built:
 ### 🛠️ Skills
 
 - **Languages**: C#, SQL, HTML, CSS, JavaScript
-- **Frameworks & Tools**: .NET, Windows Forms, ASP.NET MVC, Bootstrap, Entity Framework
+- **Frameworks & Tools**: .NET, Windows Forms, ASP.NET MVC,api, Bootstrap, Entity Framework
 - **Database**: SQL Server
-- **Others**: Git, GitHub, JWT, Identity, Three-tier architecture
+- **Others**: Git, GitHub, JWT, Identity, Three-tier architecture ,Onion architecture
 
 ---
 

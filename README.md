@@ -26,7 +26,7 @@
 - 🌐 **Personal Website** — Portfolio website built using Bootstrap.  
   🔗 [Visit Website](https://ahmedyjnj.github.io/simple-personal-page/person.html)
 - 👥 **Social Media MVC App** — ASP.NET MVC app with Identity, JWT authentication, and 3-tier architecture.
-- 🧮 **Advanced Calculator** — Windows Forms app for basic and scientific calculations.
+
 
 ---
 
@@ -57,17 +57,6 @@
 
 ---
 
-### ⚙️ GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyjnj&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedyjnj&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
 
 ### 💻 Languages and Tools
 

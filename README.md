@@ -42,10 +42,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:ahmedkok8h@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-mahmoud-b44a00225" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ahmedyjnj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:ahmedkok8h@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedkok8h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-mahmoud-b44a00225" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ahmed--mahmoud--b44a00225-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+**📱 Phone:** +20 155 107 8461  
+
 
 ---
 

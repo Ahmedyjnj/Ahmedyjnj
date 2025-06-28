@@ -7,15 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedyjnj&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedyjnj" />
 </p>
 ---
-### 🚀 Projects
-
-- 🛒 **E-Commerce Talabat Api App** — Full .NET application with shopping cart, login, and inventory management.
-- 💪 **Gym Management System** — Desktop app to manage members, payments, and trainers.
-- 👥 **Managment Dashboard** — ASP.NET MVC app with Identity, JWT authentication, and 3-tier architecture.
-- 🌐 **Personal Website** — Portfolio website built using Bootstrap.   🔗 [Visit Website](https://ahmedyjnj.github.io/simple-personal-page/person.html)
--  👥 **Social Media App** -ASP.NET MVC app with Session-based Login, bootstrap, and Posts Table , Admin Dashboard.
-
----
 ### 🛠️ Skills
 
 - **Languages**: C#, SQL, HTML, CSS, JavaScript  
@@ -27,16 +18,13 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="mailto:ahmedkok8h@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmedkok8h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>                  
+         
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-mahmoud-b44a00225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed-Mahmoudr" height="30" width="40" /></a>
 
-  
-  <a href="https://www.linkedin.com/in/ahmed-mahmoud-b44a00225" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ahmed--mahmoud--b44a00225-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-**📱 Phone:** +20 155 107 8461  
+  **📱 Phone:** +20 155 107 8461  
+  **📱 Email:** Ahmedkok8h@gmail.com
 ---
 
 ### 💻 Languages and Tools

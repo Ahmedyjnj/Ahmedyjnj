@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://ahmedyjnj.github.io/personal-portfolio-site/" target="blank">  </a>
+<a href="https://ahmedyjnj.github.io/personal-portfolio-site/" target="blank"> my wepsite </a>
          
 <h3 align="left">Connect with me:</h3>
 <p align="left">
